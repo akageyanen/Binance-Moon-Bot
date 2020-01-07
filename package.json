@@ -1,0 +1,16 @@
+{
+  "name": "BinanceMoonBot",
+  "version": "1.0.0",
+  "description": "Discord Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "y_nihei",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "dotenv": "^8.2.0",
+    "node-binance-api": "^0.4.28",
+  }
+}
